@@ -1,0 +1,9 @@
+img {
+	width: 250px;
+	height: 185px;
+	border: solid #991818 10px;
+	border-radius: 25px;
+}
+body {
+	background:#11f5f5 ;
+}
